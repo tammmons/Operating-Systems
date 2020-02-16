@@ -5,6 +5,13 @@ Command line interfaces are still used for certain applications.
 More modern user interfaces are graphical, usually based on a desktop pradigim. 
 Icons resprensting functions and application inhabit as space representing a 'desktop'. 
 Trash basket to dispose of unwanteds, magnifing glass to search with, and so on.
+
 Managing Memory - This function optimizes the devices use of internal memory, allocating data and control instuctions to different portions of the memory.
 It monitors processes in memory and releases processes from memory with the system no longer needs them.
 When memory requirements exceed available memory, the manager must pass off processes to virtual memory which is space created on external storage devices.
+
+Starting the Computer - When the computer is turned on electrial current is sent to circuits.
+Ths processor resets and finds the start up instructions in firmware.
+Tests check components and operating instructions are loaded into RAM.
+The operating systems loads configuration information.
+The system is booted.
